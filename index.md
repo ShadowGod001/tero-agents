@@ -18,3 +18,8 @@
 * <img src="./es/sql-guru/icon.png" width="24px" height="24px"/> [SQL Guru](./es/sql-guru/agent.md) por <img src="abstracta-logo.png" height="24px"/>
 * <img src="./es/test-case-generator/icon.png" width="24px" height="24px"/> [Test Case Generator](./es/test-case-generator/agent.md) por <img src="abstracta-logo.png" height="24px"/>
 * <img src="./es/test-case-runner/icon.png" width="24px" height="24px"/> [Test Case Runner](./es/test-case-runner/agent.md) por <img src="abstracta-logo.png" height="24px"/>
+* <img src="./es/cocker/icon.png" width="24px" height="24px"/> [Cocker](./es/cocker/agent.md) por [@ldelreguero](https://www.github.com/ldelreguero)
+* <img src="./es/nexus-data/icon.png" width="24px" height="24px"/> [Nexus Data](./es/nexus-data/agent.md) por [@ldelreguero](https://www.github.com/ldelreguero)
+* <img src="./es/api-testing-by-ldelreguero/icon.png" width="24px" height="24px"/> [API Testing by ldelreguero](./es/api-testing-by-ldelreguero/agent.md) por [@ldelreguero](https://www.github.com/ldelreguero)
+* <img src="./es/wally-explorer/icon.png" width="24px" height="24px"/> [Wally Explorer](./es/wally-explorer/agent.md) por [@ldelreguero](https://www.github.com/ldelreguero)
+
