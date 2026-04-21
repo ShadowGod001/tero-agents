@@ -22,4 +22,5 @@
 * <img src="./es/nexus-data/icon.png" width="24px" height="24px"/> [Nexus Data](./es/nexus-data/agent.md) por [@ldelreguero](https://www.github.com/ldelreguero)
 * <img src="./es/api-testing-by-ldelreguero/icon.png" width="24px" height="24px"/> [API Testing by ldelreguero](./es/api-testing-by-ldelreguero/agent.md) por [@ldelreguero](https://www.github.com/ldelreguero)
 * <img src="./es/wally-explorer/icon.png" width="24px" height="24px"/> [Wally Explorer](./es/wally-explorer/agent.md) por [@ldelreguero](https://www.github.com/ldelreguero)
+* [QA Automation Gherkin Web](./es/qa-automation-gherkin-web/agent.md) por Equipo QA
 
